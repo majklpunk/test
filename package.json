@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@overextended/ox_lib": "^3.16.2",
+    "lodash": "^4.17.21"
+  }
+}
